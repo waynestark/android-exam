@@ -21,7 +21,7 @@ To assess a developer's skills in terms of developing Android apps and decision-
         - Address
         - Contact person
         - Contact person's phone number
-- Send an email once done to arjay.paulino@bren-inc.com
+- Send an email once done to arjay.paulino@cybilltek.com
 
 Any libraries or tools of the developer's choosing may be used.
 
