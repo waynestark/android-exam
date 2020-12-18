@@ -36,6 +36,8 @@ Any libraries or tools of the developer's choosing may be used.
 - Respects Activity/Fragment lifecycle
 - `Mock` flavour that uses mock web server and doesn't have a `release` variant
 - `Prod` flavour that uses a random remote source and doesn't have a `debug` variant
-- Uses Model-View-Presenter or similar design pattern
+- Uses Model-View-ViewModel or similar design pattern
+- Uses Clean Architecture
+- Uses Modularization
 - Uses the Observable pattern
 - Uses Dependency Injection
