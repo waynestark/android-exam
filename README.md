@@ -11,6 +11,8 @@ To assess a developer's skills in terms of developing Android apps and decision-
     - Caches the loaded list of Persons
     - Prevents any loading from the remote source if the cache is available
     - Shows the full details of a Person on a separate screen
+    - Swipe to refresh (Force update the cache data)
+    - Loading more data when scrolling down bottom.
     - Each `Person` must have the following data: or use the API data https://randomuser.me
         - First name
         - Last name
