@@ -7,6 +7,7 @@ To assess a developer's skills in terms of developing Android apps and decision-
 
 - Fork this repository
 - Create an Android project with the following features:
+    - Create User Interfaces with XML in android
     - Loads and shows a list of Persons from a remote source(can be from some random source / https://randomuser.me)
     - Caches the loaded list of Persons
     - Prevents any loading from the remote source if the cache is available
@@ -26,7 +27,16 @@ To assess a developer's skills in terms of developing Android apps and decision-
     - Uses Clean Architecture
     - Uses Modularization 
 
-- Send an email once done to arjay.paulino@cybilltek.com
+- Exam Strategy
+    - Start with a Basic Skeleton
+    - Implement Core Features
+    - Detail Screen and Navigation
+    - Additional Features
+      - Swipe to refresh
+      - Pagination
+    - Testing and Material Design
+    - Git and Documentation
+- Ensure all requirements are met and send an email to arjay.paulino@cybilltek.com once done.
 
 Any libraries or tools of the developer's choosing may be used.
 
