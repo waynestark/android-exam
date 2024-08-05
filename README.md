@@ -36,7 +36,7 @@ To assess a developer's skills in terms of developing Android apps and decision-
       - Pagination
     - Testing and Material Design
     - Git and Documentation
-- Ensure all requirements are met and send an email to arjay.paulino@cybilltek.com once done.
+- Ensure all requirements are met and send an email to peopleops@cybilltek.com once done.
 
 Any libraries or tools of the developer's choosing may be used.
 
